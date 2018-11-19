@@ -1,0 +1,11 @@
+46.8.212.17:1050@kodaliga:kodaliga
+46.8.111.204:1050@kodaliga:kodaliga
+188.130.219.123:1050@kodaliga:kodaliga
+188.130.185.226:1050@kodaliga:kodaliga
+185.181.244.17:1050@kodaliga:kodaliga
+
+146.185.208.113:1050@kodaliga:kodaliga
+109.248.205.103:1050@kodaliga:kodaliga
+109.248.14.148:1050@kodaliga:kodaliga
+109.248.138.230:1050@kodaliga:kodaliga
+109.248.129.187:1050@kodaliga:kodaliga
